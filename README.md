@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Plans for 2021: 
+
+* course: CMU 15-213 Introduction to Computer Systems
+* book: Understanding Android Internals ART JVM
+* algorithm: 500 problem at LeetCode
